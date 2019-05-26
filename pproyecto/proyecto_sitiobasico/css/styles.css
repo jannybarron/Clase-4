@@ -99,7 +99,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url('/imagenes/welcome_LittleOnes.jpg') no-repeat center center/cover;
+  background: url('../imagenes/welcome_LittleOnes.jpg') no-repeat center center/cover;
   height: 1200px;
 }
 
@@ -148,7 +148,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('/imagenes/estancia.jpg') no-repeat center center/cover;/*imagen de 2 bloque*/
+  background: url('../imagenes/estancia.jpg') no-repeat center center/cover;/*imagen de 2 bloque*/
   min-height: 100%;
 }
 
@@ -224,7 +224,7 @@ p {
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url('/imagenes/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
+  background: url('../imagenes/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
